@@ -1,18 +1,18 @@
 {
-    "title": "Asset Metadata",
+    "title": "My Cat Collection",
     "type": "object",
     "properties": {
         "name": {
             "type": "string",
-            "description": "Identifies the asset to which this NFT represents"
+            "description": "My cat name is Neko"
         },
         "description": {
             "type": "string",
-            "description": "Describes the asset to which this NFT represents"
+            "description": "12 years old"
         },
         "image": {
             "type": "string",
-            "description": "A URI pointing to a resource with mime type image/* representing the asset to which this NFT represents. Consider making any images at a width between 320 and 1080 pixels and aspect ratio between 1.91:1 and 4:5 inclusive."
+            "description": "https://scontent-xsp1-1.xx.fbcdn.net/v/t1.6435-9/117335352_3180300048702069_6772419633742053132_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=19026a&_nc_ohc=drFE0N5Krk4AX9m64FJ&_nc_ht=scontent-xsp1-1.xx&oh=fd2487272a7b432eefbee80a45a18632&oe=60E19AAD"
         }
     }
 }
