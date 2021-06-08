@@ -1,8 +1,9 @@
 {
 "data": {
-    "name": "My Cat 2",
-    "description": "MyCat",
-    "image": "https://scontent-xsp1-1.xx.fbcdn.net/v/t1.6435-9/117335352_3180300048702069_6772419633742053132_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=19026a&_nc_ohc=drFE0N5Krk4AX9m64FJ&_nc_ht=scontent-xsp1-1.xx&oh=fd2487272a7b432eefbee80a45a18632&oe=60E19AAD"
+"name": "My Cat 3",
+"description": "MyCat 3",
+"image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+"custom": "This my custom data"
 }
 
 }
